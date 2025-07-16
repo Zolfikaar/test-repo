@@ -22,3 +22,5 @@ elirgnrjg
 6- git commit -m "commit message" // إنشاء نقطة التزام مع رسالة توضيحية 
 
 7- git push origin [branch name] // دفع التغييرات إلى الفرع البعيد  
+
+8-88888
